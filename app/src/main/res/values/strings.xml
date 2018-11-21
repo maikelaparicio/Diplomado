@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Diplomado</string>
+    <string name="name_empty_error">El nombre es requerido</string>
+    <string name="surname_empty_error">El apellidos es requerido</string>
+    <string name="user_saved">Usuario Guardado</string>
+    <string name="no_user_error">No se pudo guardar el usuario</string>
+    <string name="loading">CARGANDO</string>
+</resources>
